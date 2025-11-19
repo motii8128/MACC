@@ -1,1 +1,1 @@
-# MACC
+# MCP & Arduino CAN Controller
